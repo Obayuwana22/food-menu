@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-clr: #f59e0b;
+}
+
+html {
+  font-size: 62.5%;
+}
